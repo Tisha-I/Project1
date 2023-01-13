@@ -1,0 +1,327 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.sect1{
+    background-color: #D6E3F8;
+    /* padding-left: 7%; */
+    padding-right: 7%;
+    /* padding-top: 50px; */
+    display: flex;
+    flex-direction: row;
+}
+.sect1c{
+    background-color: #D6E3F8;
+    padding-left: 7%;
+    padding-right: 7%;
+    /* padding-top: 50px; */
+    display: flex;
+    flex-direction: row;
+}
+.sect1b img{
+    height: 637px;
+    width: 788px;
+}
+.sect1c img{
+    padding-top: 40px;
+    height: 637px;
+    width: 612px;
+}
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* margin-bottom: 116.5px; */
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 99999;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+.dots {
+    margin-top:280px;
+}
+.navlinks {
+    text-decoration: none;
+    font-family: Merriweather Sans;
+    font-size: 16px;
+    color: #000000;
+    margin-left: 26px;
+}
+nav{
+    margin-top: 17px;
+}
+.sect1ab {
+    width: 50%;
+    padding-bottom: 129.5px;
+    margin: auto;
+    padding-top: 116.5px;
+}
+.sect1ab h1 {
+    font-family: Merriweather;
+    color: #3D3B3C;
+    font-size: 18px;
+    margin-bottom: 32px;
+}
+.sect1ab h2 {
+    font-family: Merriweather;
+    font-size: 56px;
+    color: #3D3B3C;
+    font-size: 700;
+    margin-bottom: 32px;
+}
+.sect1ab p {
+    font-family: Merriweather Sans;
+    font-size: 18px;
+    color: #3D3B3C;
+    margin-bottom: 32px;
+}
+.sect1a {
+    width: 50%;
+    padding-bottom: 129.5px;
+    margin: auto;
+    padding-top: 116.5px;
+}
+.sect1a h1 {
+    font-family: Merriweather;
+    color: #3D3B3C;
+    font-size: 18px;
+    margin-bottom: 32px;
+}
+.sect1a h2 {
+    font-family: Merriweather;
+    font-size: 56px;
+    color: #3D3B3C;
+    margin-bottom: 32px;
+}
+.sect1a p {
+    font-family: Merriweather Sans;
+    font-size: 18px;
+    color: #3D3B3C;
+    margin-bottom: 32px;
+}
+.homebtn1 {
+    padding: 10px 39.5px;
+    border-radius: 5px;
+    background: #FFFFFF;
+    color: #3D3B3C;
+    border: none;
+    outline: none;
+    font-family: Merriweather Sans;
+    font-size: 16px;
+    margin-right: 10px;
+}
+.homebtn2 {
+    padding: 10px 39.5px;
+    border-radius: 5px;
+    background: #FBC507;
+    color: #3D3B3C;
+    border: none;
+    outline: none;
+    font-family: Merriweather Sans;
+    font-size: 16px;
+}
+.navbtn {
+    padding: 10px 20px;
+    border-radius: 5px;
+    background: #000000;
+    color: #FFFFFF;
+    border: none;
+    outline: none;
+    font-family: Merriweather Sans;
+    font-size: 16px;
+    font-weight: bold;
+}
+.sect2{
+    background-color: #FFFFFF;
+    padding-left: 14%;
+    padding-right: 14%;
+    padding-top: 18px;
+}
+.sect2 h1 {
+    margin-top: 80px;
+    font-family: Merriweather Sans;
+    font-size: 48px;
+    font-weight: 400;
+    margin-bottom: 45px;
+}
+.sect21 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.sect2a {
+    width: 30%;
+    font-family: Merriweather Sans;
+}
+.sect2a h2 {
+    font-size: 20px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+.sect2a p {
+    font-size: 16px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    font-weight: 100;
+    color: #3D3B3C;
+    line-height: 28px;
+    opacity: 50%;
+}
+.sect2a a {
+    color: #F08080;
+}
+.sect22 {
+    text-align: center;
+    margin-top: 73px;
+}
+.sect22 button {
+    padding: 18px 47.5px;
+    border-radius: 5px;
+    background: #FBC507;
+    color: #3D3B3C;
+    border: none;
+    outline: none;
+    font-family: Inter;
+    font-size: 16px;
+    margin-bottom: 80px;
+    font-weight: bold;
+}
+.sect22 button i {
+    margin-left: 10px;
+}
+.sect3 {
+    text-align: center;
+    background-color: #F6FAFF;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.sect3 h1 {
+    font-size: 32px;
+    font-family: Merriweather Sans;
+    margin-bottom: 16px;
+}
+.sect3 p {
+    margin-bottom: 64px;
+    color: #736A6E;
+    font-size: 20px;
+    font-family: Merriweather Sans;
+}
+.clientimgs {
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    padding-left: 270.3px;
+    padding-right: 270.3px;
+}
+.sect4 {
+    display: flex;
+    flex-direction: row;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 80px;
+    justify-content: space-between;
+}
+.sect4 h1 {
+    font-family: Merriweather Sans;
+    font-size: 48px;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+.sect4 h2 {
+    font-family: Merriweather Sans;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 40px;
+    line-height: 30.6px;
+}
+.sect4 p {
+    color: #736A6E;
+    font-family: Merriweather Sans;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 40px;
+    line-height: 28px;
+}
+.sect4left {
+    width: 50%;
+}
+.sect4 img {
+    width: 464px;
+    height: 439px;
+}
+.sect4btn button {
+    border: none;
+    text-decoration: none;
+}
+/* .sect4btn1 {
+    padding: 10px 32px;
+    border-radius: 5px;
+    margin-bottom: 80px;
+    font-weight: bold;
+} */
+.sect4btn a {
+    text-decoration: underline;
+    color: #F08080;
+    background: none;
+    border: none;
+    outline: none;
+    font-family: Inter;
+    font-size: 16px;
+}
+.sect4btn2 {
+    padding: 10px 32px;
+    border-radius: 5px;
+    background: #FBC507;
+    color: #3D3B3C;
+    border: none;
+    outline: none;
+    font-family: Inter;
+    font-size: 16px;
+    margin-bottom: 80px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.sect5 {
+    background-color: #3D3B3C;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 9%;
+    padding-right: 9%;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.sect5a {
+    font-family: Merriweather Sans;
+    width: 50%;
+}
+.sect5a h1 {
+    font-size: 32px;
+    color: #FFFFFF;
+}
+.sect5a p {
+    font-size: 48px;
+    color: #FFFFFF;
+    font-weight: 100;
+}
+.sect5b {
+    display: flex;
+    flex-direction: row;
+    font-family: Merriweather Sans;
+    justify-content: space-between;
+    width: 35%;
+}
+.sect5b h1 {
+    color: #FBC507;
+    font-size: 48px;
+}
+.sect5b p {
+    font-size: 18px;
+    color: #FFFFFF;
+}
+.counterh1 {
+    display: flex;
+    flex-direction: row;
+}
